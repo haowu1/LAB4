@@ -2,35 +2,25 @@
 <html>
 <head>
 <title>Undergraduate</title>
-
 <style>
 * {
   box-sizing: border-box;
 }
-
 .column {
   float: left;
   width: 33.33%;
   padding: 5px;
 }
-
-/* Clearfix (clear floats) */
 .row::after {
   content: "";
   clear: both;
   display: table;
 }
 </style>
-
 </head>
 <body>
-
 <img style="background-color:black;" src='https://styleguide.umbc.edu/files/2019/03/UMBC-primary-logo-CMYK-on-black-1024x236.png'>
-
 <h1 style="background-color:gold;">Department of Information Systems</h1>
-
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {margin:0;}
 
